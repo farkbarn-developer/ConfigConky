@@ -1,0 +1,2 @@
+# ConfigConky
+Configuración Conky
